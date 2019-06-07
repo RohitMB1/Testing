@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="152236" started-at="2019-05-31T10:17:20Z" finished-at="2019-05-31T10:19:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="152236" started-at="2019-05-31T10:17:20Z" finished-at="2019-05-31T10:19:53Z">
+      <class name="test_Ng_Package.Test_Case_001">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:test_Ng_Package.Test_Case_001@6ad5c04e]" name="openBrowser" is-config="true" duration-ms="20404" started-at="2019-05-31T15:47:20Z" finished-at="2019-05-31T15:47:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:test_Ng_Package.Test_Case_001@6ad5c04e]" name="launchApplication" duration-ms="118815" started-at="2019-05-31T15:47:41Z" finished-at="2019-05-31T15:49:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="searchItem()[pri:1, instance:test_Ng_Package.Test_Case_001@6ad5c04e]" name="searchItem" duration-ms="4580" started-at="2019-05-31T15:49:40Z" finished-at="2019-05-31T15:49:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method status="PASS" signature="clickButton()[pri:2, instance:test_Ng_Package.Test_Case_001@6ad5c04e]" name="clickButton" duration-ms="434" started-at="2019-05-31T15:49:44Z" finished-at="2019-05-31T15:49:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickButton -->
+        <test-method status="PASS" signature="searchResult()[pri:3, instance:test_Ng_Package.Test_Case_001@6ad5c04e]" name="searchResult" duration-ms="657" started-at="2019-05-31T15:49:45Z" finished-at="2019-05-31T15:49:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchResult -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test_Ng_Package.Test_Case_001@6ad5c04e]" name="closeBrowser" is-config="true" duration-ms="7176" started-at="2019-05-31T15:49:46Z" finished-at="2019-05-31T15:49:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test_Ng_Package.Test_Case_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
